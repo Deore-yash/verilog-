@@ -1,0 +1,11 @@
+*.vcd 
+*.out 
+/and_sim/ 
+/output/ 
+/sim/ 
+/vlsipath/ 
+
+# New workspace folders
+/build/
+/logs/
+/waveforms/
